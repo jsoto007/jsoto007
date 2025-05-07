@@ -12,13 +12,16 @@ I’m a Full-Stack Software Engineer based in The Bronx, NY, with a passion for 
 ⸻
 
 🚀 Featured Projects
-	•	Supervise Hub
+	
+•	Supervise Hub
 A web application designed to streamline one-on-one meetings between supervisors and team members. Features include meeting scheduling, note-taking, progress tracking, and report generation. Implemented user authentication with JSON Web Tokens and ensured responsive design for optimal usability.
 🔗 GitHub Repository | 📺 Video Demo ￼
-	•	Expense Tracker
+	
+•	Expense Tracker
 An intuitive web app for managing personal finances. Built with React.js, HTML5, and CSS3 for a responsive frontend, and Ruby on Rails with PostgreSQL for robust backend data management. Emphasized clean UI/UX and efficient data handling.
 🔗 GitHub Repository | 📺 Video Demo
-	•	Todos API / React Frontend
+	
+•	Todos API / React Frontend
 Developed a JSON API coupled with a React frontend to manage categorized tasks. Focused on secure data handling using JSON Web Tokens and localStorage, and implemented features for task creation, updating, and deletion.
 🔗 GitHub Repository | 📺 Video Demo
 
