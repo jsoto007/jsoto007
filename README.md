@@ -1,18 +1,16 @@
-<p align="center">
-  <img src="https://github.com/jsoto007/assets/sotodev-banner.svg" alt="SotoDev Banner"
-       style="width:100%;max-width:1000px;border-radius:8px;" />
-</p>
-
 <h1 align="center">👋 Hi, I'm <span style="color:#0074E0;">Jose J. Soto</span></h1>
 <h3 align="center">Full-Stack Software Engineer • SaaS Builder • Automation Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=1200&color=0074E0&center=true&vCenter=true&width=460&lines=Building+AI-driven+automation+for+modern+businesses;Turning+complex+workflows+into+elegant+software;SaaS+that+scales+with+clarity+and+precision+💡" alt="Animated Intro Line" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=1200&color=0074E0&center=true&vCenter=true&width=520&lines=Building+AI-driven+automation+for+modern+businesses;Turning+complex+workflows+into+elegant+software;SaaS+that+scales+with+clarity+and+precision"
+    alt="Animated Intro Line"
+  />
 </p>
 
-<p align="center">📍 Based in <strong>NYC</strong> • Focused on clarity, automation, and elegant UX.</p>
-
----
+<p align="center">
+  📍 Based in <strong>NYC</strong> • Focused on clarity, automation, and elegant UX.
+</p>
 
 ### ⚡ About Me
 
