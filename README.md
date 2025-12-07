@@ -37,7 +37,7 @@ Staff Matrix & Role Scheduling Automation.
 
 #### <a href="https://blackworknyc.com" target="_blank" rel="noopener noreferrer">Blackwork NYC</a>
 Fine-line tattoo studio portfolio + booking automation.  
-**Stack:** React • Flask • PostgreSQL • Stripe • Mailgun  
+**Stack:** React • Flask • PostgreSQL • Square • Mailgun  
 
 ---
 
