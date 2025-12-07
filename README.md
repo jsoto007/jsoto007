@@ -24,7 +24,7 @@ Special passion for **workflow optimization**, **real-time data**, and **clean, 
 
 #### [Carmonitr](https://www.carmonitr.com)
 **Dealership inventory automation** — VIN scanning, location tracking, and vehicle lifecycle management.  
-💳 Integrated: Stripe + Square API  
+💳 Integrated: Stripe API  
 **Stack:** React + Vite • Flask • SQLAlchemy • PostgreSQL • Render  
 
 #### [Bravos Taqueria](https://bravostaqueria.com)
