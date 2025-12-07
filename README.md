@@ -22,20 +22,20 @@ Special passion for **workflow optimization**, **real-time data**, and **clean, 
 
 ### 🚀 What I’m Building
 
-#### [Carmonitr](https://www.carmonitr.com)
+#### <a href="https://www.carmonitr.com" target="_blank" rel="noopener noreferrer">Carmonitr</a>
 **Dealership inventory automation** — VIN scanning, location tracking, and vehicle lifecycle management.  
-💳 Integrated: Stripe API  
+💳 Integrated: Stripe API  
 **Stack:** React + Vite • Flask • SQLAlchemy • PostgreSQL • Render  
 
-#### [Bravos Taqueria](https://bravostaqueria.com)
+#### <a href="https://bravostaqueria.com" target="_blank" rel="noopener noreferrer">Bravos Taqueria</a>
 Ordering + inventory with Square checkout, SMS/email automation, and live dashboard.  
 **Stack:** React • Flask • Square Payments API • Mailgun  
 
-#### [StaffMonitr](https://staffmonitr.com)
+#### <a href="https://staffmonitr.com" target="_blank" rel="noopener noreferrer">StaffMonitr</a>
 Staff Matrix & Role Scheduling Automation.  
 **Stack:** React • Flask • PostgreSQL • RBAC  
 
-#### [Blackwork NYC](https://blackworknyc.com)
+#### <a href="https://blackworknyc.com" target="_blank" rel="noopener noreferrer">Blackwork NYC</a>
 Fine-line tattoo studio portfolio + booking automation.  
 **Stack:** React • Flask • PostgreSQL • Stripe • Mailgun  
 
@@ -44,7 +44,7 @@ Fine-line tattoo studio portfolio + booking automation.
 ### 🧰 Tech Stack
 
 **Frontend:**  
-React • Vite • JavaScript • TailwindCSS • HTML • CSS • Framer Motion  
+React • Vite • TypeScript • JavaScript • TailwindCSS • HTML • CSS • Framer Motion  
 
 **Backend:**  
 Python • Flask • SQLAlchemy • Ruby on Rails • PostgreSQL • REST APIs  
