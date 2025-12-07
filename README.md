@@ -1,95 +1,86 @@
-Below is a clean, modern, copy-and-paste–ready GitHub README — no old or outdated icons, no clutter, just a professional, modern profile that reflects your skills and active SaaS work.
+<h1 align="center">👋 Hi, I'm <span style="color:#0074E0;">Jose J. Soto</span></h1>
+<h3 align="center">Full-Stack Software Engineer • SaaS Builder • Automation Developer</h3>
+<p align="center">📍 Based in <strong>Bronx, NY</strong>  •  Turning complex workflows into simple, intelligent software.</p>
 
-You can paste this directly into README.md.
+---
 
-⸻
+### ⚡ About Me
 
-👋 Hi, I’m Jose J. Soto
+I build **fast**, **scalable**, and **user-focused** web applications that help businesses automate, grow, and simplify operations.  
+My work blends **product design, DevOps, and full-stack engineering** to deliver clean, meaningful solutions — not just code.
 
-Full-Stack Software Engineer • SaaS Founder • Automation Builder
-Based in The Bronx, NY
+---
 
-I build fast, scalable, and user-focused web applications. My work spans full-stack development, automation, cloud infrastructure, and modern product design — with a focus on solving real problems for real businesses.
-I love turning complex workflows into clean, intuitive software.
+### 🔨 What I’m Building
 
-⸻
+#### 🧠 [Carmonitr](https://www.carmonitr.com)
+Dealership Inventory Automation  
+📦 VIN scanning • 📍 Location tracking • ⚙️ Vehicle history • 💳 Stripe-powered subscriptions  
+**Stack:** React + Vite • Flask • SQLAlchemy • PostgreSQL • Stripe • Render  
 
-⚡ What I’m Building
+#### 🌮 [Bravos Taqueria Ordering System](https://bravos-taqueria.com)
+Restaurant ordering + inventory logic with Stripe checkout, SMS/email notifications, and admin dashboard.  
+**Stack:** React • Flask • Stripe • Mailgun  
 
-Carmonitr — Dealership Inventory Automation
+#### 🧭 [StaffMonitr](https://staffmonitr.com)
+Staff Matrix & Role Scheduling  
+Daily assignments • Rotating schedules • Access control • Shift projections  
+**Stack:** React • Flask • PostgreSQL • RBAC  
 
-VIN scanning, location tracking, vehicle history, and Stripe-powered subscriptions.
-Stack: React + Vite • Flask • SQLAlchemy • PostgreSQL • Stripe • Render
-https://www.carmonitr.com
+---
 
-Bravos Taqueria Ordering System
+### 🧰 Tech Stack
 
-Restaurant ordering + inventory logic with Stripe checkout, SMS/email notifications, and admin dashboard.
-Stack: React • Flask • Stripe • Mailgun
-https://bravos-taqueria.com
-
-StaffMonitr — Staff Matrix & Role Scheduling
-
-Daily assignments, rotating schedules, access control, and shift projections.
-Stack: React • Flask • PostgreSQL • RBAC
-https://staffmonitr.com
-
-⸻
-
-🛠️ Tech Stack
-
-Frontend:
+**Frontend:**  
 React • Vite • JavaScript • TailwindCSS • HTML • CSS • Framer Motion
 
-Backend:
+**Backend:**  
 Python • Flask • SQLAlchemy • Ruby on Rails • PostgreSQL • REST APIs
 
-DevOps & Cloud:
+**DevOps + Cloud:**  
 Render • Docker • Nginx • Gunicorn • GitHub Actions • Mailgun • Stripe Webhooks
 
-Other:
+**Specialties:**  
 SaaS Architecture • Multi-Tenant Apps • Automation • API Design • Product Development
 
-⸻
+---
 
-🚀 Selected Projects
+### 🚀 Featured Projects
 
-Supervise Hub
+#### 🗂️ [Supervise Hub](https://github.com/jsoto007/supervise-hub-v2)
+Supervisor–staff 1:1 platform with notes, schedules, and performance tracking.  
+**Stack:** Rails • React • PostgreSQL
 
-Supervisor–staff 1:1 platform with notes, schedules, and performance tracking.
-Rails • React • PostgreSQL
-Repo: https://github.com/jsoto007/supervise-hub-v2
+---
 
-⸻
+#### 💸 [Expense Tracker](https://github.com/jsoto007/expense-tracker)
+Minimal, responsive personal expense tracking app.  
+**Stack:** React • Rails • PostgreSQL
 
-Expense Tracker
+---
 
-Minimal, responsive personal expense tracking app.
-React • Rails • PostgreSQL
-Repo: https://github.com/jsoto007/expense-tracker
+#### ✅ [Todos API + React Frontend](https://github.com/jsoto007/todos-api-react-frontend)
+Full-stack task management with JWT-based sessions.  
+**Stack:** Rails API • React • JWT Auth  
 
-⸻
+---
 
-Todos API + React Frontend
+### 🌐 Let’s Connect
 
-Full-stack task management with JWT-based sessions.
-Rails API • React • JWT Auth
-Repo: https://github.com/jsoto007/todos-api-react-frontend
+📁 **Portfolio:** [josejsoto.com](https://josejsoto.com)  
+✉️ **Email:** [jsoto7087@gmail.com](mailto:jsoto7087@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/jose-javier-soto-a29b96111](https://www.linkedin.com/in/jose-javier-soto-a29b96111)
 
-⸻
+---
 
-Let’s Connect
+### 💡 Optional Add-ons
+If you’d like, this README can also include:
+- A **branded banner header** using SotoDev color accents  
+- **Minimal GitHub badges** (tech and contact icons)  
+- An **animated intro line** (e.g., “Building automation products that move faster than paperwork 🚀”)  
+- A **SotoDev color theme** (e.g. `#0074E0` for links and accents)
 
-Portfolio: https://josejsoto.com
-Email: jsoto7087@gmail.com
-LinkedIn: https://www.linkedin.com/in/jose-javier-soto-a29b96111
+---
 
-⸻
+⭐ **I love creating user-centric solutions and making things more efficient.**
 
-If you want, I can also generate:
-	•	a clean banner header for the top of the README
-	•	GitHub badges using modern minimal styles
-	•	an animated introduction section
-	•	a branded version using SotoDev colors
-
-Just tell me the style you want.
