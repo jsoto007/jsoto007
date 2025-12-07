@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  📍 Based in <strong>NYC</strong> • Focused on clarity, automation, and elegant UX.
+  📍 NYC-based • Delivering clarity, automation, and refined user experiences.
 </p>
 
 ### ⚡ About Me
