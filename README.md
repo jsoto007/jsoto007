@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#0074E0;">Jose J. Soto</span></h1>
 <h3 align="center">Full-Stack Software Engineer • SaaS Builder • Automation Developer</h3>
-<p align="center">📍 Based in <strong>Bronx, NY</strong>  •  Turning complex workflows into simple, intelligent software.</p>
+<p align="center">📍 Based in <strong>NYC</strong>  •  Turning complex workflows into simple, intelligent software.</p>
 
 ---
 
